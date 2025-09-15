@@ -1,0 +1,11 @@
+pyproject.toml
+src/pdf_demo/__init__.py
+src/pdf_demo/cli.py
+src/pdf_demo/data_processing.py
+src/pdf_demo/io_utils.py
+src/pdf_demo/pdf_renderer.py
+src/pdf_demo.egg-info/PKG-INFO
+src/pdf_demo.egg-info/SOURCES.txt
+src/pdf_demo.egg-info/dependency_links.txt
+src/pdf_demo.egg-info/requires.txt
+src/pdf_demo.egg-info/top_level.txt

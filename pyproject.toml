@@ -1,0 +1,14 @@
+[project]
+name = "pdf_demo"
+version = "0.1.0"
+description = "A demo project for working with PDFs in Python."
+authors = [
+    { name="Your Name", email="your.email@example.com" }
+]
+dependencies = [
+    "PyPDF2>=3.0.0"
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
